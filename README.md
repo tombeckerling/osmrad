@@ -1,0 +1,2 @@
+# osmrad
+OpenStudio Radiance Measure
